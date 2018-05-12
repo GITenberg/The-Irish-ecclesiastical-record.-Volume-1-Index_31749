@@ -4,6 +4,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31749#The-Irish-ecclesiastical-record.-Volume-1-Index
 gutenberg_bookshelf: The Irish Ecclesiastical Record
 gutenberg_issued: '2010-03-23'
 gutenberg_type: Text
